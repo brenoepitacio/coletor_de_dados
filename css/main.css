@@ -5,3 +5,11 @@
 #bordas-tabela{
     border-style: solid;
 }
+
+.botao_coletar {
+    display: inline;
+}
+
+.tamanho_campo_principal {
+    width: 40px;
+}
