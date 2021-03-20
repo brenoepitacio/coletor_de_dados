@@ -7,12 +7,32 @@
 }
 
 .botao_coletar {
-    display: inline;
+    display: inline-table;
 }
 
 .tamanho_campo_principal {
     width: 40px;
 }
 .coletor {
-    border-style: solid;
+    
+}
+
+#tabelas {
+    display: none;
+}
+
+#input_coletor {
+    max-width: 10rem;
+}
+
+.ajuste_campo {
+    margin-left: 1rem;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+p {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
 }

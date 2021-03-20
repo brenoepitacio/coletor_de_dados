@@ -19,7 +19,8 @@ function coletar() {
     var Benefício_Rgps = Number(Benefício_Rgps.value)
     var vsl_benefício_rgps = window.document.getElementById('vsl_benefício_rgps')
     vsl_benefício_rgps.innerHTML = Benefício_Rgps
- 
+    
+    window.alert('Dados coletados com sucesso')
 }
 
 function printDiv(tabelas) {
